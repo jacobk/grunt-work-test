@@ -1,0 +1,24 @@
+{
+  "name": "grunt-work-test",
+  "version": "0.0.0",
+  "description": "grunt-work-test ===============",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-work": "~0.1.0",
+    "grunt": "^0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jacobk/grunt-work-test.git"
+  },
+  "author": "Jacob Kristhammar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobk/grunt-work-test/issues"
+  },
+  "homepage": "https://github.com/jacobk/grunt-work-test"
+}
