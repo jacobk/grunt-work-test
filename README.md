@@ -1,4 +1,4 @@
-grunt-work-test
-===============
+werk-test
+=========
 
 Used for testing grunt-work

@@ -7,7 +7,4 @@ module.exports = function(grunt) {
       default_branch: 'master'
     }
   });
-
-  grunt.loadNpmTasks('grunt-work');
-  grunt.registerTask('default', ['work']);
 };
